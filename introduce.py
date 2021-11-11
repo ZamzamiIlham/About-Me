@@ -1,0 +1,10 @@
+nama            = "Ilham Zamzami"
+nim             = 212410102082
+umur            = "19 tahun"
+tinggi_badan    = "167 cm"
+berat_badan     = "60 kg"
+print("Nama         =",nama)
+print("Nim          =",nim)
+print("umur         =",umur)
+print("Tinggi badan =",tinggi_badan)
+print("Berat Badan  =",berat_badan)
